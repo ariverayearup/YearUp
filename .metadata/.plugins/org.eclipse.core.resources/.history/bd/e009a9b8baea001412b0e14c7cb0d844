@@ -1,0 +1,10 @@
+
+public class Intro {
+
+	public static void main(String[] args) {
+		// This is my first program
+		
+		System.out.Println("hello world welcome to java class");
+	}
+
+}
