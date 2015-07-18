@@ -85,7 +85,7 @@ public class SimpleJavaGUI {
 				if (WhoButton.getText().equals("Who are you?"))
 				{
 					nameTextField.setText("Abraham Rivera");
-					ageTextField.setText("20");
+					ageTextField.setText("10");
 					WhoButton.setText("Clear me!");
 				}
 				else if (WhoButton.getText().equals("Clear me!"))
